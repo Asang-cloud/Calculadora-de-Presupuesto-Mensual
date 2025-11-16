@@ -1,1 +1,15 @@
-
+Requerimientos Funcionales 
+1. Ingreso de Datos: El sistema debe permitir al usuario ingresar los gastos e 
+ingresos mensuales. 
+2. Calculo Automático: El sistema debe calcular automáticamente el saldo 
+disponible. 
+3. Clasificación: El sistema debe permitir clasificar los datos por categoría. 
+4. Visualización: El sistema debe mostrar un resumen general del presupuesto 
+indicando el total de ingresos, total de gastos y sueldo final. 
+5. Alertas: El sistema debe mostrar una alerta o notificación si los gastos superan 
+los ingresos. 
+6. Historial: El sistema debe permitir consultar los presupuestos anteriores. 
+7. Edición y Eliminación: El sistema debe permitir consultar los ingresos 
+anteriores. 
+8. Exportación: El sistema debe permitir exportar el presupuesto mensual en 
+formato como PDF o Excel.
