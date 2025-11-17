@@ -17,3 +17,16 @@ Muchas plataformas como GitHub, GitLab, Bitbucket, Stack Overflow, y blogs tecni
 Puede abrirse con cualquier editor de texto y no depende de un software especial.
 
 Ejemplo practico de uso de Markdown 
+
+Encabezados y listas
+
+Encabezados: Usa # al principio del texto. 
+
+Un # para el encabezado más grande (H1), dos para el siguiente (H2), y así sucesivamente.
+
+Listas con viñetas: Usa *, -, o + al principio de cada elemento. 
+
+Para listas anidadas, usa una tabulación.
+
+Listas numeradas: Usa números seguidos de un punto. Por ejemplo, 1., 2., 3.
+
