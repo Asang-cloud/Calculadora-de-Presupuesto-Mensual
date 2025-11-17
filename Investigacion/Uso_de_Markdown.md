@@ -26,3 +26,10 @@ Listas con viñetas: Usa *, -, o + al principio de cada elemento. Para listas an
 
 Listas numeradas: Usa números seguidos de un punto. Por ejemplo, 1., 2., 3.
 
+Citas en bloque: Usa > al principio de la línea para citar bloques de texto.
+
+Código en línea: Usa comillas invertidas simples ( ) para el código que va dentro de una línea.
+
+Líneas horizontales: Usa tres o más guiones, asteriscos o guiones bajos en una línea (---) para crear una línea horizontal.
+
+Saltos de línea: Añade dos espacios al final de una línea para forzar un salto de línea en algunos visores. 
