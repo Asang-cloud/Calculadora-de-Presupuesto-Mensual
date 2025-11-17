@@ -1,8 +1,8 @@
-                                                         ¿Que es Markdown?
+                                                       ¿Que es Markdown?
 
 Es un lenguaje de marcado ligero que permite formatear texto plano de forma sencilla utilizando caracteres como #, * y _ para crear titulos, negritas, cursivas, listas, etc. Su diseño prioriza la legibilidad del texto, tanto en su forma de escritura como de lectura, y puede convertirse facilmente a HTMLy otros formatos.
 
-                                            ¿Porque se utiliza en proyectos de software?
+                                           ¿Porque se utiliza en proyectos de software?
 
 1.-Documentacion clara y facil de mantener
 
@@ -18,7 +18,7 @@ Puede abrirse con cualquier editor de texto y no depende de un software especial
 
 Ejemplo practico de uso de Markdown 
 
-                                                   Encabezados y listas
+                                                       Encabezados y listas
 
 Encabezados: Usa # al principio del texto. Un # para el encabezado más grande (H1), dos para el siguiente (H2), y así sucesivamente.
 
