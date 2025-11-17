@@ -18,7 +18,7 @@ Puede abrirse con cualquier editor de texto y no depende de un software especial
 
 Ejemplo practico de uso de Markdown 
 
-                                                       Encabezados y listas
+                                                    Encabezados y listas
 
 Encabezados: Usa # al principio del texto. Un # para el encabezado más grande (H1), dos para el siguiente (H2), y así sucesivamente.
 
