@@ -16,4 +16,4 @@ Muchas plataformas como GitHub, GitLab, Bitbucket, Stack Overflow, y blogs tecni
 
 Puede abrirse con cualquier editor de texto y no depende de un software especial.
 
-Ejemplo practico de uso de Markdown
+Ejemplo practico de uso de Markdown 
