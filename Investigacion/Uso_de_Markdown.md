@@ -48,4 +48,6 @@ Markdown es facil de leer, sin renderizar, lo que ayuda a que varios colaborador
 
 Markdown es texto plano, lo que significa:
 
-+ mas
++ Menor peso en los archivos
++ Compatibilidad con cualquier editor
++ Facil de versionar y comparar en Git
