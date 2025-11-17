@@ -51,7 +51,7 @@ Acciones que se pueden tomar para corregir esto:
 
 3.-Ejecucion de pruebas unitarias sobre los modulos afectados.
 
-# ¿Investigacion sobre el uso de Markdown?
+# Investigacion sobre el uso de Markdown
 ## ¿Que es Markdown y porque se utiliza en proyectos de software?
 + Es un lenguaje de marcado ligero que permite formatear texto plano de forma sencilla utilizando caracteres como #, * y _ para crear titulos, negritas, cursivas, listas, etc. Su diseño prioriza la legibilidad del texto, tanto en su forma de escritura como de lectura, y puede convertirse facilmente a HTMLy otros formatos.
 + 1.-Documentacion clara y facil de mantener: Se usa para escribir archivos README.md, documentacion tecnica, guias de uso, etc.
@@ -78,4 +78,20 @@ Líneas horizontales: Usa tres o más guiones, asteriscos o guiones bajos en una
 
 Saltos de línea: Añade dos espacios al final de una línea para forzar un salto de línea en algunos visores.
 
+## Ventajas de utilizar Markdown en combinacion con GitHub
 
+1.-Colaboracion sencilla
+
+Markdown es facil de leer, sin renderizar, lo que ayuda a que varios colaboradores editen y revisen contenido usando en Git, manteniendo el historial de cambios.
+
+2.-Ligero y portable
+
+Markdown es texto plano, lo que significa:
+
++ Menor peso en los archivos
++ Compatibilidad con cualquier editor
++ Facil de versionar y comparar en Git
+
+3.-Uso en otras herramientas
+
+Los archivos Markdown pueden ser exportados a PDF, HTML, Word, etc. y son compatibles con herramientas externas como Notion, Obsidian, Gitbook o Jekyll (para blogs estaticos).
