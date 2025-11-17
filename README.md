@@ -25,5 +25,5 @@ Una calculadora de presupuesto mensual es una herramienta que ayuda a las person
 ## Tabla de Prueba
 |N°|Requerimiento asociado|Datos de entrada|Resultado esperado|Resultado obtenido/Validacion|
 |-|-|-|-|-|
-|1.|Calcular total de ingresos mensuales|Ingresos: Saldo:890;Otros:200|Total Ingresos:1090|Total Ingresos:1090|
+|1.|Calcular total de ingresos mensuales|Ingresos: Saldo:890;<br>Otros:200|Total Ingresos:<br>1090|Total Ingresos:<br>1090|
 
