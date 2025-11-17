@@ -5,3 +5,4 @@ Una calculadora de presupuesto mensual es una herramienta que ayuda a las person
 |ID|Tipo|Descripcion|
 |-|-|-|
 |RF1|Ingreso de datos|El sistema debe permitir al usuario ingresar los gastos e ingresos mensuales|
+|RF2|Calculo automatico|El sistema debe calcular automáticamente el saldo disponible|
