@@ -20,13 +20,9 @@ Ejemplo practico de uso de Markdown
 
 Encabezados y listas
 
-Encabezados: Usa # al principio del texto. 
+Encabezados: Usa # al principio del texto. Un # para el encabezado más grande (H1), dos para el siguiente (H2), y así sucesivamente.
 
-Un # para el encabezado más grande (H1), dos para el siguiente (H2), y así sucesivamente.
-
-Listas con viñetas: Usa *, -, o + al principio de cada elemento. 
-
-Para listas anidadas, usa una tabulación.
+Listas con viñetas: Usa *, -, o + al principio de cada elemento. Para listas anidadas, usa una tabulación.
 
 Listas numeradas: Usa números seguidos de un punto. Por ejemplo, 1., 2., 3.
 
