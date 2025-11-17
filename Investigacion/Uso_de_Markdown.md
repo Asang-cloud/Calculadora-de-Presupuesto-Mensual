@@ -36,4 +36,16 @@ Código en línea: Usa comillas invertidas simples ( ) para el código que va de
 
 Líneas horizontales: Usa tres o más guiones, asteriscos o guiones bajos en una línea (---) para crear una línea horizontal.
 
-Saltos de línea: Añade dos espacios al final de una línea para forzar un salto de línea en algunos visores. 
+Saltos de línea: Añade dos espacios al final de una línea para forzar un salto de línea en algunos visores.
+
+# Ventajas de utilizar Markdown en combinacion con GitHub
+
+1.-Colaboracion sencilla
+
+Markdown es facil de leer, sin renderizar, lo que ayuda a que varios colaboradores editen y revisen contenido usando en Git, manteniendo el historial de cambios.
+
+2.-Ligero y portable
+
+Markdown es texto plano, lo que significa:
+
++ mas
