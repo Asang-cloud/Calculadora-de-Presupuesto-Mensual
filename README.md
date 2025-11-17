@@ -12,6 +12,7 @@ Una calculadora de presupuesto mensual es una herramienta que ayuda a las person
 |RF6|Historial|El sistema debe permitir consultar los presupuestos anteriores|
 |RF7|Edicion y eliminacion|El sistema debe permitir consultar los ingresos anteriores|
 |RF8|Exportacion|El sistema debe permitir exportar el presupuesto mensual en formato como PDF o Excel|
+
 ## Requerimientos no Funcionales
 |ID|Tipo|Descripcion|
 |-|-|--------|
@@ -20,3 +21,7 @@ Una calculadora de presupuesto mensual es una herramienta que ayuda a las person
 |RNF3|Portabilidad|El sistema debe poder ejecutarse en diferentes sistemas operativos|
 |RNF4|Accesibilidad|La aplicación debe cumplir con estándares básicos de accesibilidad|
 |RNF5|Privacidad|La información personal y financiera del usuario no debe compartirse con terceros|
+
+## Tabla de Prueba
+|N°|Requerimiento asociado|Datos de entrada|Resultado esperado|Resultado obtenido/Validacion|
+|-|-|-|-|-|
