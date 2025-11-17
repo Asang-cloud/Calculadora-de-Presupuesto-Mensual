@@ -51,3 +51,7 @@ Markdown es texto plano, lo que significa:
 + Menor peso en los archivos
 + Compatibilidad con cualquier editor
 + Facil de versionar y comparar en Git
+
+3.-Uso en otras herramientas
+
+Los archivos Markdown pueden ser exportados a PDF, HTML, Word, etc. y son compatibles con herramientas externas como Notion, Obsidian, Gitbook o Jekyll (para blogs estaticos).
