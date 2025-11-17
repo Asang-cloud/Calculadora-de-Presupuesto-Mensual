@@ -29,5 +29,4 @@ Una calculadora de presupuesto mensual es una herramienta que ayuda a las person
 |2.|Calcular todos los gastos mensuales|Gastos: Alquiler:300;<br>Comida:180|Total Gastos:<br>480|Total Gastos:<br>480|
 |3.|Calcular el presupuesto mensual|Ingresos: 1090<br>Gastos:480|Total Saldo:<br>610|Total Saldo:<br>610|
 
-
-
+## Propuesta de Mantenimiento
