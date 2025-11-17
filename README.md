@@ -58,4 +58,24 @@ Acciones que se pueden tomar para corregir esto:
 + 2.-Soporte en plataformas desarrolladoras: Muchas plataformas como GitHub, GitLab, Bitbucket, Stack Overflow, y blogs tecnicos lo interpretan directamente.
 + 3.-Ligero y Compatible: Puede abrirse con cualquier editor de texto y no depende de un software especial.
 
+## Ejemplos practicos de uso de Markdown
+
+                                                    Encabezados y listas
+
+Encabezados: Usa # al principio del texto. Un # para el encabezado más grande (H1), dos para el siguiente (H2), y así sucesivamente.
+
+Listas con viñetas: Usa *, -, o + al principio de cada elemento. Para listas anidadas, usa una tabulación.
+
+Listas numeradas: Usa números seguidos de un punto. Por ejemplo, 1., 2., 3.
+
+                                                           Otros
+
+Citas en bloque: Usa > al principio de la línea para citar bloques de texto.
+
+Código en línea: Usa comillas invertidas simples ( ) para el código que va dentro de una línea.
+
+Líneas horizontales: Usa tres o más guiones, asteriscos o guiones bajos en una línea (---) para crear una línea horizontal.
+
+Saltos de línea: Añade dos espacios al final de una línea para forzar un salto de línea en algunos visores.
+
 
