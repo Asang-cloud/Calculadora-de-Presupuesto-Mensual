@@ -12,3 +12,8 @@ Se usa para escribir archivos README.md, documentacion tecnica, guias de uso, et
 
 Muchas plataformas como GitHub, GitLab, Bitbucket, Stack Overflow, y blogs tecnicos lo interpretan directamente.
 
+3.-Ligero y Compatible
+
+Puede abrirse con cualquier editor de texto y no depende de un software especial.
+
+Ejemplo practico de uso de Markdown
